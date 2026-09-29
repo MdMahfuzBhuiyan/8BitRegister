@@ -1,0 +1,5 @@
+vhdl isim_temp "Multiplexer2.vhd"
+vhdl isim_temp "DFlipFlop.vhd"
+vhdl isim_temp "Register1Bit.vhd"
+vhdl isim_temp "Register8Bit.vhd"
+vhdl isim_temp "Register8BitTb.vhd"

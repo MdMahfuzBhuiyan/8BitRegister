@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/Register8Bit.xst" -ofn "/home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/Register8Bit.syr" 

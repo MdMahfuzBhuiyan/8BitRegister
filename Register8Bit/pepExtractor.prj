@@ -1,0 +1,4 @@
+work	"DFlipFlop.vhd"
+work	"Multiplexer2.vhd"
+work	"Register1Bit.vhd"
+work	"Register8Bit.vhd"

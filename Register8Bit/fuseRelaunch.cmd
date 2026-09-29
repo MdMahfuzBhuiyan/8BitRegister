@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/Register8BitTb_isim_beh.exe" -prj "/home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/Register8BitTb_beh.prj" "work.Register8BitTb" 

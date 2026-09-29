@@ -1,0 +1,3 @@
+vhdl work "Multiplexer2.vhd"
+vhdl work "DFlipFlop.vhd"
+vhdl work "Register1Bit.vhd"

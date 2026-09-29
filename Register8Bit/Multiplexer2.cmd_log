@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/Multiplexer2.xst" -ofn "/home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/Multiplexer2.syr" 

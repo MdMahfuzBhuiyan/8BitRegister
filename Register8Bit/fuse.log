@@ -1,0 +1,28 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/Register8BitTb_isim_beh.exe -prj /home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/Register8BitTb_beh.prj work.Register8BitTb 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/Multiplexer2.vhd" into library work
+Parsing VHDL file "/home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/DFlipFlop.vhd" into library work
+Parsing VHDL file "/home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/Register1Bit.vhd" into library work
+Parsing VHDL file "/home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/Register8Bit.vhd" into library work
+Parsing VHDL file "/home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/Register8BitTb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 83164 KB
+Fuse CPU Usage: 330 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity Multiplexer2 [multiplexer2_default]
+Compiling architecture behavioral of entity DFlipFlop [dflipflop_default]
+Compiling architecture structural of entity Register1Bit [register1bit_default]
+Compiling architecture structural of entity Register8Bit [register8bit_default]
+Compiling architecture behavior of entity register8bittb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 11 VHDL Units
+Built simulation executable /home/mahfuz/VSLIProject 3/8BitRegister/Register8Bit/Register8BitTb_isim_beh.exe
+Fuse Memory Usage: 1697528 KB
+Fuse CPU Usage: 340 ms
+GCC CPU Usage: 410 ms
